@@ -1,0 +1,81 @@
+
+/* Class = "UILabel"; text = "FİYAT"; ObjectID = "5ML-Qr-9oI"; */
+"5ML-Qr-9oI.text" = "FİYAT";
+
+/* Class = "UIButton"; configuration.title = "SEPETİ ONAYLA"; ObjectID = "5gf-LE-BzZ"; */
+"5gf-LE-BzZ.configuration.title" = "SEPETİ ONAYLA";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "5gf-LE-BzZ"; */
+"5gf-LE-BzZ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "TOPLAM"; ObjectID = "9LU-NW-Enz"; */
+"9LU-NW-Enz.text" = "TOPLAM";
+
+/* Class = "UITabBarItem"; title = "Sipariş"; ObjectID = "AjD-6l-WdR"; */
+"AjD-6l-WdR.title" = "Sipariş";
+
+/* Class = "UILabel"; text = "Pizza"; ObjectID = "DbZ-Hj-ZZ2"; */
+"DbZ-Hj-ZZ2.text" = "Pizza";
+
+/* Class = "UILabel"; text = "Adet"; ObjectID = "H8J-ap-PXI"; */
+"H8J-ap-PXI.text" = "Adet";
+
+/* Class = "UISearchBar"; placeholder = "Yemek arayın."; ObjectID = "MDW-qj-13t"; */
+"MDW-qj-13t.placeholder" = "Yemek arayın.";
+
+/* Class = "UITabBarItem"; title = "Sepetim"; ObjectID = "OwM-AK-aUh"; */
+"OwM-AK-aUh.title" = "Sepetim";
+
+/* Class = "UINavigationItem"; title = "Sepetim"; ObjectID = "Q8u-TE-AVZ"; */
+"Q8u-TE-AVZ.title" = "Sepetim";
+
+/* Class = "UIButton"; configuration.title = "SEPETE EKLE"; ObjectID = "SjZ-xv-Anx"; */
+"SjZ-xv-Anx.configuration.title" = "SEPETE EKLE";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "SjZ-xv-Anx"; */
+"SjZ-xv-Anx.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Detay"; ObjectID = "YLX-Fo-wze"; */
+"YLX-Fo-wze.title" = "Detay";
+
+/* Class = "UITabBarItem"; title = "Sipariş"; ObjectID = "ZvP-1Z-7Jw"; */
+"ZvP-1Z-7Jw.title" = "Sipariş";
+
+/* Class = "UILabel"; text = "30TL"; ObjectID = "a0o-mc-Lfl"; */
+"a0o-mc-Lfl.text" = "30TL";
+
+/* Class = "UILabel"; text = "Kullanıcı Adı"; ObjectID = "bDZ-kw-bUz"; */
+"bDZ-kw-bUz.text" = "Kullanıcı Adı";
+
+/* Class = "UITabBarItem"; title = "Kullanıcı"; ObjectID = "gvc-uM-77O"; */
+"gvc-uM-77O.title" = "Kullanıcı";
+
+/* Class = "UIBarButtonItem"; title = "ÇIKIŞ YAP"; ObjectID = "hng-a9-zpN"; */
+"hng-a9-zpN.title" = "ÇIKIŞ YAP";
+
+/* Class = "UILabel"; text = "24 TL"; ObjectID = "jAS-RR-x7T"; */
+"jAS-RR-x7T.text" = "24 TL";
+
+/* Class = "UITextField"; placeholder = "ÜRÜNÜN ADI"; ObjectID = "jeD-l1-isu"; */
+"jeD-l1-isu.placeholder" = "ÜRÜNÜN ADI";
+
+/* Class = "UILabel"; text = "Izgara Tavuk"; ObjectID = "ll4-s4-OgK"; */
+"ll4-s4-OgK.text" = "Izgara Tavuk";
+
+/* Class = "UITabBarItem"; title = "Sepetim"; ObjectID = "spJ-mR-axR"; */
+"spJ-mR-axR.title" = "Sepetim";
+
+/* Class = "UIBarButtonItem"; title = "Anasayfa"; ObjectID = "tyU-i5-DK2"; */
+"tyU-i5-DK2.title" = "Anasayfa";
+
+/* Class = "UIButton"; configuration.title = "Dili Değiştir"; ObjectID = "vpH-Tb-Pkr"; */
+"vpH-Tb-Pkr.configuration.title" = "Dili Değiştir";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "vpH-Tb-Pkr"; */
+"vpH-Tb-Pkr.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Kullanıcı"; ObjectID = "zbc-Q4-1ss"; */
+"zbc-Q4-1ss.title" = "Kullanıcı";
+
+/* Class = "UINavigationItem"; title = "Anasayfa"; ObjectID = "zqv-nm-Bvd"; */
+"zqv-nm-Bvd.title" = "Anasayfa";

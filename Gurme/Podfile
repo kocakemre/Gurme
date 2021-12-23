@@ -1,0 +1,21 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'MyFoodApp' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for MyFoodApp
+    pod 'Kingfisher', '~> 6.0'
+    pod'Alamofire','~>4.4' 
+
+  target 'MyFoodAppTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'MyFoodAppUITests' do
+    # Pods for testing
+  end
+
+end
